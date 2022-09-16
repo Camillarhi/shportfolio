@@ -31,9 +31,9 @@ export default function Header() {
         </ul>
       </nav>
 
-      <div className='socialMediaIcons'>
+      {/* <div className='socialMediaIcons'>
         <h3>icons</h3>
-      </div>
+      </div> */}
     </header>
   )
 }
